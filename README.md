@@ -11,7 +11,7 @@ Whether it's daily purchases or occasional expenses, **SpendSmart** provides use
 ---
 ## Download APK  
 
-📥 [Download SpendSmart APK](https://github.com/himabindutellakula/Spend-Smart-Android-Mobile-App/blob/main/SpendSmart.apk)  
+📥 [Download SpendSmart APK](https://github.com/himabindutellakula/Spend-Smart-Android-Mobile-App/blob/main/SpendSmart.apk?download=1)  
 ---
 
 ## Key Features  
