@@ -9,6 +9,10 @@
 Whether it's daily purchases or occasional expenses, **SpendSmart** provides users with a **detailed monthly financial summary**, helping them understand and control their financial patterns.  
 
 ---
+## Download APK  
+
+📥 [Download SpendSmart APK](https://github.com/himabindutellakula/Spend-Smart-Android-Mobile-App/blob/main/SpendSmart.apk)  
+---
 
 ## Key Features  
 
